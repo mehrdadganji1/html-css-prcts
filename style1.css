@@ -90,8 +90,8 @@ sup {
 figure {
   margin: 1em 40px;
 }
-img {
-  border-style: none;
+.w3-image {
+  border-style: double;
 }
 code,
 kbd,
